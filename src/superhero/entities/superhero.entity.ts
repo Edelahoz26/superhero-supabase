@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { Table, Column, Model, DataType } from 'sequelize-typescript';
 @Table({ tableName: 'superheroes' })
 export class Superhero extends Model<Superhero> {

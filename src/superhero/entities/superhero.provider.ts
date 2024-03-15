@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { Superhero } from './superhero.entity';
 
 export const superHeroProvider = [
